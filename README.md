@@ -37,6 +37,7 @@ Abre http://localhost:5173 en tu navegador.
 
 ## Estructura de componentes
 
+```text
 App
 ├── HomeScreen          (pantalla principal con leaderboard)
 └── Game                (contenedor del juego)
@@ -46,3 +47,4 @@ App
     │   ├── Food        (comida)
     │   ├── StartScreen (overlay inicial)
     │   └── GameOver    (overlay de fin de juego)
+```
