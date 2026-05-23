@@ -2,6 +2,8 @@
 
 Implementación del juego clásico Snake desarrollada con React y Vite.
 
+🔗 **Demo en vivo:** [snake-react-vert.vercel.app](https://snake-react-vert.vercel.app)
+
 ## Tecnologías
 
 - React 19 (JSX, hooks)
